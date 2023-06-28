@@ -16,3 +16,36 @@ h2 {
     text-align: center;
     font-family: Monospace;
   }
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  list-style: none;
+}
+
+input[type="checkbox"]
+{
+  display: none;
+}
+
+nav
+{
+  background-color: rgba(16,16,16,.5);
+  width: 350px;
+  height: 100%;
+}
+
+a{
+  background-color: red;
+  display: block;
+  padding: 20px 5px;
+  color: white;
+}
